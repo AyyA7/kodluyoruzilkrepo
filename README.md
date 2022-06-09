@@ -25,7 +25,7 @@ Pull requestler kabul edilebilir. Büyük değişiklikler için, lütfen önce n
 
 ## License
 
-[MIT](https://www.mit.edu)
+[MIT](https://choosealicense.com/licenses/mit/)
 
 ## Markdown Projesi Örnek Resim
 
