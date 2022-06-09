@@ -27,6 +27,6 @@ Pull requestler kabul edilebilir. Büyük değişiklikler için, lütfen önce n
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Markdown Projesi Örnek Resim
+## Markdown Ödevi Resmi
 
 ![Örnek Markdown Projesi](https://raw.githubusercontent.com/AyyA7/kodluyoruzilkrepo/main/Markdown.png)
